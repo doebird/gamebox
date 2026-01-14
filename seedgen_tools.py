@@ -68,7 +68,7 @@ import random
 # ------------------------
 # Configuration
 # ------------------------
-OUT_DIR = "/storage/emulated/0/Documents/seeds"
+OUT_DIR = "workspaces/gamebox/seed"
 DEFAULT_COUNT = 10
 DEFAULT_BYTES = 125000  # ~1 megabit (125000 bytes)
 TIMESTAMP_FMT = "%Y%m%d_%H%M%S"
